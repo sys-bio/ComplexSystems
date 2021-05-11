@@ -1,0 +1,9 @@
+jupyterlab
+matplotlib
+numpy
+pandas
+SBstoat
+scipy
+seaborn
+sympy
+tellurium
