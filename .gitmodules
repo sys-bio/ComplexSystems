@@ -1,0 +1,6 @@
+[submodule "FittingSurface"]
+	path = FittingSurface
+	url = https://github.com/ScienceStacks/FittingSurface.git
+[submodule "common_python"]
+	path = common_python
+	url = https://github.com/ScienceStacks/common_python.git
