@@ -4,3 +4,9 @@
 [submodule "common_python"]
 	path = common_python
 	url = https://github.com/ScienceStacks/common_python.git
+[submodule "FittingAnalysis"]
+	path = FittingAnalysis
+	url = https://github.com/ScienceStacks/FittingAnalysis.git
+[submodule "kinetics_validator"]
+	path = kinetics_validator
+	url = https://github.com/ModelEngineering/kinetics_validator.git
